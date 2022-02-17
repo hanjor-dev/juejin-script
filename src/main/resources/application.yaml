@@ -1,3 +1,10 @@
 server:
   port: 8765
 
+juejin:
+  cookie: ?
+  aid: ?
+  uuid: ?
+
+cron:
+  check-in: 0 30 10 ? * *
